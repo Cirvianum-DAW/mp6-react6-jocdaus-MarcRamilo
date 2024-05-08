@@ -48,7 +48,7 @@ const LuckyN = () => {
 
   return (
     <div className="lucky-n p-4">
-      <h2>Prova sort! La suma ha de sumar {targetSum}</h2>
+      <h2>Prova sort! La suma ha de ser de {targetSum}</h2>
       {  <p className={winClass}>{resultMessage}</p>}
       <Dice rolls={rolls} />
       <button className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded ml-2" onClick={handleRollDice}>Tira el dau</button>
