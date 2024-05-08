@@ -1,0 +1,17 @@
+.dau {
+  display: inline-block;
+  width: 3rem;
+  height: 3rem;
+  line-height: 3rem;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.dau--1 { background-color: #FF0000; }
+.dau--2 { background-color: #0000FF; }
+.dau--3 { background-color: #00FF00; }
+.dau--4 { background-color: #FFFF00; }
+.dau--5 { background-color: #800080; }
+.dau--6 { background-color: #FF69B4; }
